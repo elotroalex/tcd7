@@ -2,7 +2,7 @@
 layout: page
 title: "The 'Big' Questions"
 session: 1
-day: Thursday
+day: Friday
 slot: "4:30-6:00PM"
 ---
 
