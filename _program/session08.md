@@ -15,6 +15,8 @@ slot: "12:15-1:30PM"
 [Julie Chun Kim]({{site.baseurl}}/bios/index.html#julie-chun-kim) (Fordham University), [Kimberly Takahata]({{site.baseurl}}/bios/index.html#kimberly-takahata) (Columbia University)
 - **Caribbean Literary Magazines: From Print to Digital Forms**\\
 [Lizabel Mónica]({{site.baseurl}}/bios/index.html#lizabel-monica) (Princeton University), [Katerina Gonzalez Seligmann]({{site.baseurl}}/bios/index.html#katerina-gonzalez-seligmann) (Emerson College)
+- **Archiving the Ephemeral**\\
+[Agyei Archer](Independent Designer)
 - Moderator: [Tao Leigh Goffe]({{site.baseurl}}/bios/index.html#tao-leigh-goffe) (New York University)
 
 ---
