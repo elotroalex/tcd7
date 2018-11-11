@@ -10,10 +10,10 @@ slot: "11AM-12:15PM"
 
 ---
 
-- **Decolonizing Caribbean Cartographies**\\
-[Tao Leigh Goffe]({{site.baseurl}}/bios/index.html#tao-leigh-goffe) (New York University), [Alicia Grullón]({{site.baseurl}}/bios/index.html#alicia-grullon) (New York University)
+- **Unmapping the Caribbean: Sanctuary and Sound**\\
+[Tao Leigh Goffe]({{site.baseurl}}/bios/index.html#tao-leigh-goffe) (New York University)
 - **The St. Martin Project: The Impact of Hurricanes on the People of St. Martin**\\
-[Catherine Benoît]({{site.baseurl}}/bios/index.html#catherine-benoit) (Connecticut College), [Lyndsay Bratton]({{site.baseurl}}/bios/index.html#lyndsay-bratton) (Connecticut College)
+[Catherine Benoît]({{site.baseurl}}/bios/index.html#catherine-benoit) (Connecticut College)
 - **Digital Technology and Disaster Management:  A Comparative Study between India and Haiti**\\
 [Upasana Bhattacharjee]({{site.baseurl}}/bios/index.html#upasana-bhattacharjee) (Indian Institute of Technology), [Ranjani Srinivasan]({{site.baseurl}}/bios/index.html#ranjani-srinivasan) (Indian Institute of Technology)
 - Moderator: [Schuyler Esprit]({{site.baseurl}}/bios/index.html#schuyler-esprit) (Dominica State College)
@@ -21,8 +21,8 @@ slot: "11AM-12:15PM"
 
 <br>
 
-**Decolonizing Caribbean Cartographies**\\
-Tao Leigh Goffe (New York University), Alicia Grullón (New York University)
+**Unmapping the Caribbean: Sanctuary and Sound**\\
+Tao Leigh Goffe (New York University)
 
 What would a map of sanctuary look like? We take up these questions to anchor the precarity of refuge and what it means to be a refugee in the context of the Caribbean. Critiquing the imaginary of an secret island hideaway and vacation paradise, we imagine a decolonized archipelago. This project grew out of a set of conversations alongside the NYU #SanctuarySyllabus published online by Public Books. How can one map the intimacies of four continents, to evoke Lisa Lowe’s reconstellation of the historiography of the Americas with the Caribbean plantation as focal point? In this multimedia presentation as artists, activists, and educators, we will showcase our use of digital mapping technologies--StoryMaps, ArcGIS, and Inquisite-- to tackle the conceptual grounds of what it would mean to map sanctuary. Framed by fugitivity we examine the potential and limitations of mapping marronage and indigeneity in the Caribbean. We use maps as objects anchored in the question of contestation over space and race in the region, to re-open the dialogue between creolization and indigenization amplified by the digital.
 
