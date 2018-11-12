@@ -17,6 +17,7 @@ slot: "11AM-12:15PM"
 - **Digital Technology and Disaster Management:  A Comparative Study between India and Haiti**\\
 [Upasana Bhattacharjee]({{site.baseurl}}/bios/index.html#upasana-bhattacharjee) (Indian Institute of Technology), [Ranjani Srinivasan]({{site.baseurl}}/bios/index.html#ranjani-srinivasan) (Indian Institute of Technology)
 - Moderator: [Schuyler Esprit]({{site.baseurl}}/bios/index.html#schuyler-esprit) (Dominica State College)
+
 ---
 
 <br>

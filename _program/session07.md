@@ -15,7 +15,7 @@ slot: "10:45-12:00PM"
 [Jarrel De Matas]({{site.baseurl}}/bios/index.html#jarrel-de-matas) (University of the West Indies, St Augustine)
 - **Digital Double: Alternative Media and Counter-Narratives in the work of Warren Le Platte**\\
 [Jonathan Felix]({{site.baseurl}}/bios/index.html#jonathan-felix) (Independent Scholar)
-- Moderator: Bryan Wagner (University of California, Berkeley)
+- Moderator: [Bryan Wagner]({{site.baseurl}}/bios/index.html#bryan-wagner) (University of California, Berkeley)
 
 ---
 

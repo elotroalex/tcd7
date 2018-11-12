@@ -423,7 +423,7 @@ América Latina* (Ediciones Almenara, Comp. Nanne Timmer, 2018).
 
 ## Angelique V. Nixon
 
-...is a Bahamas-born, Trinidad-based writer, artist, teacher, scholar, activist, and poet. Her research, poetry, and artwork have been published/featured widely. She is author of the art and poetry chapbook Saltwater Healing – A Myth Memoir & Poems (Poinciana Paper Press, 2013). Her scholarly book Resisting Paradise: Tourism, Diaspora, and Sexuality in Caribbean Culture (University Press of Mississippi, 2015) won the Caribbean Studies Association’s 2016 Barbara T. Christian Award for Best Book in the Humanities. Angelique is a Lecturer at the Institute for Gender and Development Studies, The University of the West Indies, St. Augustine, Trinidad and Tobago. Follow her on Twitter/Instagram @sistellablack. http://consciousvibration.tumblr.com/ | http://www.caribbeansexualities.org/
+...is a Bahamas-born, Trinidad-based writer, artist, teacher, scholar, activist, and poet. Her research, poetry, and artwork have been published/featured widely. She is author of the art and poetry chapbook Saltwater Healing – A Myth Memoir & Poems (Poinciana Paper Press, 2013). Her scholarly book Resisting Paradise: Tourism, Diaspora, and Sexuality in Caribbean Culture (University Press of Mississippi, 2015) won the Caribbean Studies Association’s 2016 Barbara T. Christian Award for Best Book in the Humanities. Angelique is a Lecturer at the Institute for Gender and Development Studies, The University of the West Indies, St. Augustine, Trinidad and Tobago. Follow her on Twitter/Instagram @sistellablack. http://consciousvibration.tumblr.com/ \| http://www.caribbeansexualities.org/
 
 &#x2666;
 
