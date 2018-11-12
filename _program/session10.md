@@ -17,7 +17,7 @@ slot: "4:30-6:00PM"
 [Amanda Zilla]({{site.baseurl}}/bios/index.html#amanda-zilla) (University of the West Indies, St. Augustine) 
 - **Is the Digital in Digital Black Atlantic the Digital in Digital Humanities?**\
 [Roopika Risam]({{site.baseurl}}/bios/index.html#roopika-risam) (Salem State University)
-- Moderator: [Kaiama L. Glover]({{site.baseurl}}/bios/index.html#kaiama-l-glover) (Barnard College, Columbia University)
+- Moderator: Kaiama L. Glover (Barnard College, Columbia University)
 
 ---
 
