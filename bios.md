@@ -17,7 +17,7 @@ organisation.
 
 &#x2666;
 
-## Catherine Benoît
+## Catherine Benoît
 
 ...is a Professor of Anthropology at Connecticut
 College. Her research interests focus on questions related to
@@ -133,7 +133,7 @@ Diaspora.
 West Indies, St Augustine Campus and a teacher of English Language and
 Literature. His research interests include Caribbean Speculative Fiction
 and Postmodern theory. He is published in the Journal of Comparative
-Politics and the Journal of West Indian Literature.
+Politics, the Journal of West Indian Literature, and *Small Axe*.
 
 &#x2666;
 
@@ -177,7 +177,7 @@ Revolution and the Early U.S.: Histories, Geographies, and Textualities*
 
 &#x2666;
 
-## Laurent DuBois
+## Laurent Dubois
 
 ...is Professor of Romance Studies and History and the
 founder and Faculty Director of the Forum for Scholars & Publics at Duke
@@ -221,10 +221,7 @@ Dominica State College.
 
 ## Jonathan Felix
 
-...is a transdisciplinary educator and practitioner at
-the intersection of Media, Communication Design, and Cultural Studies.
-His research interests include Alternative Media and Visual Digital
-Cultures.
+...is a transdisciplinary educator and practitioner at the intersection of Design, Media, and Cultural Studies. His research interests include Alternative Media, Popular Culture and Digital Visual Discourses. With over 15 years of collective experience in the creative industries and higher education, he is currently a member of the faculty at the London College for Design and Fashion.
 
 &#x2666;
 
@@ -424,6 +421,12 @@ América Latina* (Ediciones Almenara, Comp. Nanne Timmer, 2018).
 
 &#x2666;
 
+## Angelique V. Nixon
+
+...is a Bahamas-born, Trinidad-based writer, artist, teacher, scholar, activist, and poet. Her research, poetry, and artwork have been published/featured widely. She is author of the art and poetry chapbook Saltwater Healing – A Myth Memoir & Poems (Poinciana Paper Press, 2013). Her scholarly book Resisting Paradise: Tourism, Diaspora, and Sexuality in Caribbean Culture (University Press of Mississippi, 2015) won the Caribbean Studies Association’s 2016 Barbara T. Christian Award for Best Book in the Humanities. Angelique is a Lecturer at the Institute for Gender and Development Studies, The University of the West Indies, St. Augustine, Trinidad and Tobago. Follow her on Twitter/Instagram @sistellablack. http://consciousvibration.tumblr.com/ | http://www.caribbeansexualities.org/
+
+&#x2666;
+
 ## Emily O’Dell
 
 ...is a PhD candidate in Comparative Literature at
@@ -530,7 +533,7 @@ West Indies, Mona.
 ...is a student of English Studies at the Department
 of Humanities and Social Sciences, IIT Madras. She has authored papers
 on Chinese Internet and domestic politics, with focus on the concept of
-'cyber-sovereignty'. Her interests like in international relations
+'cyber-sovereignty'. Her interests lie in international relations
 theory, foreign policy and Internet governance.
 
 &#x2666;
@@ -572,14 +575,7 @@ You can find her on
 
 ## Kimberly Takahata
 
-...is a doctoral candidate in the Department of
-English and Comparative Literature at Columbia University. Her
-dissertation, entitled “Skeletal Testimony: Bony Ecologies in the Early
-Atlantic,” analyzes descriptions of human bones as sites of resistance
-in colonial accounts in order to disrupt depictions of indigenous and
-enslaved commodification and displacement. She is also a team member of
-*Digital Grainger: An Online Edition of the Sugar-Cane* (1764), an
-ongoing project to digitize James Grainger’s 1764 poem T*he Sugar-Cane*.
+...is a doctoral candidate in the Department of English and Comparative Literature at Columbia University. Her dissertation, entitled, “Skeletal Testimony: Bony Biopolitics in the Early Atlantic, 1705-1836,” analyzes descriptions of indigenous bones in the eighteenth century to articulate a relationship between colonial texts and ongoing indigenous life. She is a team member of Digital Grainger: An Online Edition of The Sugar-Cane (1764), an ongoing project to digitize James Grainger’s 1764 poem The Sugar-Cane.
 
 &#x2666;
 
@@ -641,7 +637,4 @@ Hispanic Literary Heritage and the \#usLdh initiative.
 
 ## Amanda Zilla
 
-...is a second year MPhil in Literatures in English
-candidate at The University of the West Indies, St. Augustine. Her
-thesis is entitled “A Narratological Study of the Adaptation of
-Caribbean Literary Texts into Film and Virtual Reality.”
+...is a second year MPhil in Literatures in English candidate and tutor in the Department of Literary, Cultural and Communication Studies at The University of the West Indies, St. Augustine. Her thesis is entitled “A Narratological Study of the Adaptation of Caribbean Literary Texts into Film and Virtual Reality.

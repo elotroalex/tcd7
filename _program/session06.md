@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Rountable: Haitian Intellectual History in the Age of Digital Preservation"
-session: 1
+title: "Roundtable: Haitian Intellectual History in the Age of Digital Preservation"
+session: 6
 day: Friday
 slot: "9:30-10:30AM"
 ---
