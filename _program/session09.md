@@ -17,7 +17,7 @@ slot: "3-4:15PM"
 - **“Always Together”: A Digital Diasporic Elegy**\\
  [Tzarina T. Prater]({{site.baseurl}}/bios/index.html#tzarina-t-prater) (Bentley University)
 - **Digital Space as Submarine – The Caribbean IRN's Radical Praxis & Knowledge Production**\\
- [Angelique V. Nixon](Institute for Gender and Development Studies, The University of the West Indies, St. Augustine, Trinidad and Tobago)
+ [Angelique V. Nixon]({{site.baseurl}}/bios/index.html#angelique-v-nixon) (Institute for Gender and Development Studies, The University of the West Indies, St. Augustine, Trinidad and Tobago)
 - Moderator: [Isis Semaj-Hall]({{site.baseurl}}/bios/index.html#isis-semaj-hall) (University of the West Indies, Mona)
 
 ---

@@ -16,7 +16,7 @@ slot: "12:15-1:30PM"
 - **Caribbean Literary Magazines: From Print to Digital Forms**\\
 [Lizabel Mónica]({{site.baseurl}}/bios/index.html#lizabel-monica) (Princeton University), [Katerina Gonzalez Seligmann]({{site.baseurl}}/bios/index.html#katerina-gonzalez-seligmann) (Emerson College)
 - **Archiving the Ephemeral**\\
-Agyei Archer (Independent Designer)
+[Agyei Archer]({{site.baseurl}}/bios/index.html#agyei-archer) (Independent Designer)
 - Moderator: [Tao Leigh Goffe]({{site.baseurl}}/bios/index.html#tao-leigh-goffe) (New York University)
 
 ---
