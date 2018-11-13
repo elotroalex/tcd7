@@ -6,8 +6,20 @@ title: Program
 <h1>The Program</h1>
 
 <h2>Thursday, December 6</h2>
+<p>School of Education, 3rd Floor</p>
 
   <ul class="slots">
+    <li class="slot-title">
+      <strong>Welcome</strong><br>
+      <span>9:00AM</span><br>
+    </li>
+
+    <li class="slot-title">
+      <strong>Opening Remarks</strong><br>
+      <span>Kelly Baker Josephs</span><br>
+      <span>9:15AM</span><br>
+    </li>
+
   {% for item in site.program %}
   	{% if item.day == "Thursday" %}
   
@@ -15,13 +27,15 @@ title: Program
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a><br>
-      <p>{{ item.slot }}</p>
+      <span>{{ item.participants }}</span><br>
+      <span>{{ item.slot }}</span><br>
     </li>
     {% endif %}
   {% endfor %}
   </ul>
 
 <h2>Friday, December 7</h2>
+<p>School of Education, 3rd Floor</p>
 
   <ul class="slots">
   {% for item in site.program %}
@@ -31,10 +45,16 @@ title: Program
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a><br>
-      <p>{{ item.slot }}</p>
+      <span>{{ item.participants }}</span><br>
+      <span>{{ item.slot }}</span><br>
     </li>
     {% endif %}
   {% endfor %}
+    <li class="slot-title">
+      <strong>Alice Yard</strong><br>
+      <span>7:00PM</span><br>
+    </li>
+
   </ul>
 
 

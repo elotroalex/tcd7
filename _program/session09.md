@@ -4,6 +4,7 @@ title: "Voicing Online Community"
 session: 9
 day: Friday
 slot: "3-4:15PM"
+participants: "Miari Taina Stephens, Leslie Kay Jones, Tzarina T. Prater, Angelique V. Nixon, Isis Semaj-Hall"
 ---
 
 

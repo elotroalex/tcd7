@@ -4,14 +4,13 @@ title: "Workshop on Digital Decolonization"
 session: 5
 day: Thursday
 slot: "4:45-6:30PM"
+participants: "Elizabeth Maddock Dillon, Alanna Prince"
 ---
-
-
 
 ---
 
 - **Digital Decolonization: Exhibit Building in the Classroom – The Early Caribbean Digital Archive**\\
-[Nicole N. Aljoe]({{site.baseurl}}/bios/index.html#nicole-n-aljoe), [Elizabeth Maddock Dillon]({{site.baseurl}}/bios/index.html#elizabeth-maddock-dillon), [Sarah Payne]({{site.baseurl}}/bios/index.html#sarah-payne), [Alanna Prince]({{site.baseurl}}/bios/index.html#alanna-prince) (Northeastern University)
+[Elizabeth Maddock Dillon]({{site.baseurl}}/bios/index.html#elizabeth-maddock-dillon)  (Northeastern University), [Alanna Prince]({{site.baseurl}}/bios/index.html#alanna-prince) (Northeastern University)
 
 ---
 

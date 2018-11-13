@@ -69,7 +69,7 @@ University. Before joining her current institution, she was a Diversity
 Postdoctoral Fellow at the University of San Diego and a Provost’s
 Postdoctoral Scholar at the University of South Florida.
 
-&#x2666;
+<!-- &#x2666;
 
 ## Rhonda Cobham-Sander
 
@@ -90,7 +90,7 @@ boundaries. The second project entitled “Corporeal States: Body, Nation,
 Text,” argues that using gendered metaphors to shore up the identity of
 the nation state in African literature may have the unintended
 consequence of destabilizing our assumptions about what constitutes a
-body and what defines a text.
+body and what defines a text. -->
 
 &#x2666;
 
@@ -198,7 +198,7 @@ Understand Soccer* (Basic Books, 2018). His writings have appeared in
 Republic*, *The New York Times*, *Aeon*, T*he Wall Street Journal*, *The
 Los Angeles Times*, and *Slate*. He tweets @Soccerpolitics.
 
-&#x2666;
+<!-- &#x2666;
 
 ## Schuyler Esprit
 
@@ -215,7 +215,7 @@ of which are historical explorations of reading culture in the
 Caribbean. She has also written the introduction to the 2016 Papillote
 Press edition of *The Orchid House*, the 1953 novel by Dominican writer
 Phyllis Shand Allfrey. She is currently Dean of Academic Affairs at
-Dominica State College.
+Dominica State College. -->
 
 &#x2666;
 
@@ -233,6 +233,12 @@ Her research is on US Latina/o literature with a focus on US/Mexico
 border, postcolonial feminist theory and digital humanities methods. She
 is the co-founder of Borderlands Archives Cartography, leads the Delis
 Negrón digital archive and collaborates in other DH projects.
+
+&#x2666;
+
+## Kaiama L. Glover 
+
+...is Professor of French and Africana Studies at Barnard College, Columbia University. She is the author of <i>Haiti Unbound: A Spiralist Challenge to the Postcolonial Canon </i>(Liverpool 2010); co-editor of <i>Marie Vieux Chauvet: Paradoxes of the Postcolonial Feminine</i> (<i>Yale French Studies</i> 2016) and of the forthcoming <i>Haiti Reader </i>(Duke UP); and translator of Frankétienne’s <i>Ready to Burst</i> (Archipelago Books 2014), Marie Chauvet’s <i>Dance on the Volcano</i> (Archipelago Books 2016), and René Depestre’s <i>Hadriana in All My Dreams </i>(Akashic Books 2017). She has won awards from the PEN/Heim Foundation, the National Endowment for the Arts, the National Endowment for the Humanities, the Mellon Foundation, and the Fulbright Foundation. She is founding co-editor of <a href="http://smallaxe.net/sxarchipelagos" target="_blank" rel="noopener"><i>sx archipelagos: a small axe journal of digital practice</i></a><i> </i>and co-director of the digital humanities project <i><a href="mailto:sameboats.org" target="_blank" rel="noopener">In the Same Boats: Toward an Afro-Atlantic Intellectual Cartography</a></i>. She contributes regularly to <i>The New York Times Book Review</i>. Her manuscript “Disorderly Women: On Caribbean Community and the Ethics of Self-Regard,” a monograph concerning literary representations of wayward womanhood in Caribbean prose fiction is forthcoming with Duke University Press.
 
 &#x2666;
 

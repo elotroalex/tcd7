@@ -42,6 +42,9 @@ ul {
   margin-bottom: 1rem;
   list-style-type: circle; }
 
+li.slot-title {
+  margin-bottom: 1rem; }
+
 a {
   color: #F50000;
   text-decoration: none; }

@@ -4,6 +4,7 @@ title: "Digital Temporalities"
 session: 7
 day: Friday
 slot: "10:45-12:00PM"
+participants: "Gary Wilder, Jarrel De Matas, Jonathan Felix, Bryan Wagner"
 ---
 
 

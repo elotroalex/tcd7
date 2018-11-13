@@ -4,6 +4,7 @@ title: "Intellectual Histories, Archival Engagements"
 session: 1
 day: Thursday
 slot: "9:30AM-10:45AM"
+participants: "Carole Boyce Davies, V. Emma Kioko, Jeanne Jégousso, Emily O’Dell, Sylvia Fernández, Annette Zapata, Gary Wilder"
 ---
 
 

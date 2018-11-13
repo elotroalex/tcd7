@@ -4,6 +4,7 @@ title: "Digital Caribbean Pedagogies"
 session: 3
 day: Thursday
 slot: "1:45-3PM"
+participants: "Isis Semaj-Hall, Robin Brooks, Benjamin Branch, Tzarina T. Prater"
 ---
 
 

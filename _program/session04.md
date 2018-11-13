@@ -4,12 +4,13 @@ title: "Digitizing Revolution in the Circum-Caribbean"
 session: 4
 day: Thursday
 slot: "3:15-4:45PM"
+participants: "Laurie Taylor, Leah Rosenberg, Bryan Wagner, Amalia S. Levi, Roopika Risam"
 ---
 
 ---
 
 - **The Morant Bay Rebellion as Digital Bridge between Caribbean and Victorian Studies**\\
-[Rhonda Cobham-Sander]({{site.baseurl}}/bios/index.html#rhonda-cobham-sander) (Amherst College), [Laurie Taylor]({{site.baseurl}}/bios/index.html#laurie-taylor) (University of Florida), Leah Rosenberg (University of Florida)
+[Laurie Taylor]({{site.baseurl}}/bios/index.html#laurie-taylor) (University of Florida), [Leah Rosenberg]({{site.baseurl}}/bios/index.html#leah-rosenberg) (University of Florida)
 - **Louisiana Slave Conspiracies**\\
 [Bryan Wagner]({{site.baseurl}}/bios/index.html#bryan-wagner) (University of California, Berkeley)
 - **Digitizing the Barbados Mercury Gazette: Not the End, but a Beginning**\\

@@ -4,6 +4,7 @@ title: "DH Activism"
 session: 2
 day: Thursday
 slot: "11AM-12:15PM"
+participants: "Tao Leigh Goffe, Catherine Benoît, Upasana Bhattacharjee"
 ---
 
 
@@ -16,7 +17,7 @@ slot: "11AM-12:15PM"
 [Catherine Benoît]({{site.baseurl}}/bios/index.html#catherine-benoit) (Connecticut College)
 - **Digital Technology and Disaster Management:  A Comparative Study between India and Haiti**\\
 [Upasana Bhattacharjee]({{site.baseurl}}/bios/index.html#upasana-bhattacharjee) (Indian Institute of Technology), [Ranjani Srinivasan]({{site.baseurl}}/bios/index.html#ranjani-srinivasan) (Indian Institute of Technology)
-- Moderator: [Schuyler Esprit]({{site.baseurl}}/bios/index.html#schuyler-esprit) (Dominica State College)
+- Moderator: [Angelique V. Nixon]({{site.baseurl}}/bios/index.html#angelique-v-nixon) (Dominica State College)
 
 ---
 

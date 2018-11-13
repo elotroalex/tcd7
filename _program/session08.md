@@ -4,6 +4,7 @@ title: "Digital Editions"
 session: 8
 day: Friday
 slot: "12:15-1:30PM"
+participants: "Kwynn Johnson, Julie Chun Kim, Kimberly Takahata, Lizabel Mónica, Katerina Gonzalez Seligmann, Agyei Archer, Tao Leigh Goffe"
 ---
 
 
