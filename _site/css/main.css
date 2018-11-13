@@ -35,15 +35,19 @@ h1 {
   font-size: 52px; }
 
 h2 {
-  font-weight: 500; }
+  font-weight: 500;
+  margin-bottom: 0px; }
 
 ul {
   margin-left: 2rem;
   margin-bottom: 1rem;
   list-style-type: circle; }
 
-li.slot-title {
+li.slot {
   margin-bottom: 1rem; }
+
+span.slot-title {
+  font-size: 1.3rem; }
 
 a {
   color: #F50000;

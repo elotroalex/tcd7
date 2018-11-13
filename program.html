@@ -5,19 +5,19 @@ title: Program
 
 <h1>The Program</h1>
 
-<h2>Thursday, December 6</h2>
+<h2>Thursday, 6 December</h2>
 <p>School of Education, 3rd Floor<br>
 University of the West Indies, St. Augustine
 Trinidad and Tobago</p>
 
   <ul class="slots">
-    <li class="slot-title">
-      <strong>Welcome</strong><br>
+    <li class="slot">
+      <span class="slot-title">Welcome</span><br>
       <span>9:00AM</span><br>
     </li>
 
-    <li class="slot-title">
-      <strong>Opening Remarks</strong><br>
+    <li class="slot">
+      <span class="slot-title">Opening Remarks</span><br>
       <span>Kelly Baker Josephs</span><br>
       <span>9:15AM</span><br>
     </li>
@@ -25,10 +25,10 @@ Trinidad and Tobago</p>
   {% for item in site.program %}
   	{% if item.day == "Thursday" %}
   
-    <li class="slot-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
+    <li class="slot">
+      <span class="slot-title"><a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
-      </a><br>
+      </a></span><br>
       <span>{{ item.participants }}</span><br>
       <span>{{ item.slot }}</span><br>
     </li>
@@ -36,7 +36,7 @@ Trinidad and Tobago</p>
   {% endfor %}
   </ul>
 
-<h2>Friday, December 7</h2>
+<h2>Friday, 7 December</h2>
 <p>School of Education, 3rd Floor<br>
 University of the West Indies, St. Augustine
 Trinidad and Tobago</p>
@@ -45,17 +45,17 @@ Trinidad and Tobago</p>
   {% for item in site.program %}
   	{% if item.day == "Friday" %}
   
-    <li class="slot-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
+    <li class="slot">
+      <span class="slot-title"><a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
-      </a><br>
+      </a></span><br>
       <span>{{ item.participants }}</span><br>
       <span>{{ item.slot }}</span><br>
     </li>
     {% endif %}
   {% endfor %}
-    <li class="slot-title">
-      <strong>Conversations in the Yard</strong><br>
+    <li class="slot">
+      <span class="slot-title">Conversations in the Yard</span><br>
       <span>Di-Andre Caprice Davis and Rodell Warner</span><br>
       <span>Alice Yard, 80 Roberts Street, Woodbrook, Port of Spain</span><br>
       <span>7:00PM</span><br>
