@@ -4,7 +4,7 @@ title: "DH Activism"
 session: 2
 day: Thursday
 slot: "11AM-12:15PM"
-participants: "Tao Leigh Goffe, Catherine Benoît, Upasana Bhattacharjee"
+participants: "Tao Leigh Goffe, Catherine Benoît, Upasana Bhattacharjee, Ranjani Srinivasan, Angelique V. Nixon"
 ---
 
 
