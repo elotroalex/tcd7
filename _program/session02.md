@@ -17,7 +17,7 @@ participants: "Tao Leigh Goffe, Catherine Benoît, Upasana Bhattacharjee, Ranjan
 [Catherine Benoît]({{site.baseurl}}/bios/index.html#catherine-benoit) (Connecticut College)
 - **Digital Technology and Disaster Management:  A Comparative Study between India and Haiti**\\
 [Upasana Bhattacharjee]({{site.baseurl}}/bios/index.html#upasana-bhattacharjee) (Indian Institute of Technology), [Ranjani Srinivasan]({{site.baseurl}}/bios/index.html#ranjani-srinivasan) (Indian Institute of Technology)
-- Moderator: [Angelique V. Nixon]({{site.baseurl}}/bios/index.html#angelique-v-nixon) (Dominica State College)
+- Moderator: [Angelique V. Nixon]({{site.baseurl}}/bios/index.html#angelique-v-nixon) (University of West Indies, St Augustine)
 
 ---
 
