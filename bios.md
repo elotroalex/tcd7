@@ -255,7 +255,7 @@ is preoccupied with how the history of abolition, indenture, and
 decolonization frame the transpacific and transatlantic entanglements of
 African and Asian diasporas.
 
-&#x2666;
+<!-- &#x2666;
 
 ## Alicia Grullón
 
@@ -271,7 +271,8 @@ Martinique poet and philosopher Suzanne Césaire (1915-1966) and includes
 art by women of color whose work breaks down patriarchy, class, and
 racial paradigms in contemporary
 contexts. [www.aliciagrullon.com](http://www.aliciagrullon.com).
-
+ -->
+ 
 &#x2666;
 
 ## Jeanne Jégousso

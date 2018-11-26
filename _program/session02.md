@@ -8,7 +8,6 @@ participants: "Tao Leigh Goffe, Catherine Benoît, Upasana Bhattacharjee, Ranjan
 ---
 
 
-
 ---
 
 - **Unmapping the Caribbean: Sanctuary and Sound**\\
