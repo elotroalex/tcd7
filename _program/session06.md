@@ -11,7 +11,7 @@ participants: "Chelsea Stieber, Marlene L. Daut, Elizabeth Losh"
 
 ---
 
-- **???**\\
+- **Haitian Intellectual History in the Age of Digital Preservation**\\
 [Chelsea Stieber]({{site.baseurl}}/bios/index.html#chelsea-stieber) (Catholic University)
 - **Early Haitian Print Culture and Digital Preservation**\\
 [Marlene L. Daut]({{site.baseurl}}/bios/index.html#marlene-l-daut) (University of Virginia)
