@@ -43,6 +43,9 @@ ul {
   margin-bottom: 1rem;
   list-style-type: circle; }
 
+li.menu-item {
+  font-weight: 400; }
+
 li.slot {
   margin-bottom: 1rem; }
 

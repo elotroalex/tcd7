@@ -8,7 +8,7 @@
                 {% assign class = 'active' %}
             {% endif %}
             {% if link.sublinks %}
-                <li class="dropdown {{ class }}">
+                <li class="menu-item dropdown">
                     <a href="javascript:void(0)" class="dropdown-button" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span style="font-size: 0.66rem; padding-left: 0.2rem;"> &#x25BC;</span></a>
                     <div class="dropdown-menu">
                         {% for sublink in link.sublinks %}
@@ -17,7 +17,7 @@
                     </ul>
                 </li>
             {% else %}
-                <li class="{{ class }}">
+                <li class="menu-item">
                     <a href="{{ link.url }}">{{ link.title }}</a>
                 </li>
             {% endif %}
