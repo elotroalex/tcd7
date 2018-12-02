@@ -4,7 +4,7 @@ title: "The 'Big' Questions"
 session: 1
 day: Friday
 slot: "4:30-6:00PM"
-participants: "Halcyon M. Lawrence, Elizabeth Losh, Amanda Zilla, Roopika Risam, Kaiama L. Glover"
+participants: "Halcyon M. Lawrence, Amanda Zilla, Roopika Risam, Kaiama L. Glover"
 ---
 
 
@@ -13,8 +13,6 @@ participants: "Halcyon M. Lawrence, Elizabeth Losh, Amanda Zilla, Roopika Risam,
 - **Siri mek mi speak like ah freshwater Yankee**\
 [Halcyon M. Lawrence]({{site.baseurl}}/bios/index.html#halcyon-m-lawrence) (Towson University)
 - **Resisting Recolonization: Big Data, Vast Early America, and Black Digital Humanities**\
-[Elizabeth Losh]({{site.baseurl}}/bios/index.html#elizabeth-losh) (College of William & Mary)
-- **Virtual Reality as Narrative Medium: Potentialities and Problems for Caribbean Implementation**\
 [Amanda Zilla]({{site.baseurl}}/bios/index.html#amanda-zilla) (University of the West Indies, St. Augustine) 
 - **Is the Digital in Digital Black Atlantic the Digital in Digital Humanities?**\
 [Roopika Risam]({{site.baseurl}}/bios/index.html#roopika-risam) (Salem State University)
@@ -47,11 +45,6 @@ in field of speech technology and point to empirical work that is being done to 
 “technology support for other cultures is not a feature of software design, but a core
 principle” (Nasser 2017).
 
-
-**Resisting Recolonization: Big Data, Vast Early America, and Black Digital Humanities**\
-Elizabeth Losh (College of William & Mary)
-
-As humanities scholars use new digital technologies to revisit the established origin stories of British colonialism and the American Revolution, the central role of the Caribbean in the biopolitical founding of the U.S. nation state becomes undeniable. At the same time, privileging so-called “big data” over what Christine Borgman (2015) has called “little data” pushes the Caribbean experience back out into the periphery of the global digital record of human history and discounts its critical mediating role in the constitution of both the Global North and the Global South. In the field of the digital humanities, a more capacious understanding of the interdependencies of pre-digital culture has been facilitated by interdisciplinary approaches to infrastructure that include ecology, transportation, and migration as important factors for understanding human cultural heritage. At the same time, linked open data and new resource description frameworks promise to make more actors and artifacts visible, and more expansive initiatives for image, sound and multimedia archives, social network analysis, data visualization, GIS, and 3D scanning enhance understanding of the rhizomatic, diasporic, and creolized character of exchanges between and within the archipelago and the continent. This presentation focuses on the growing presence of Caribbean history and culture in the digital humanities efforts of the Omohundro Institute as a case study for thinking about four essential problems that arise when the concept of “raw data” is interrogated (Gitelman, 2013) and the regimes of the colonial archive are questioned (Risam, 2018; Wernimont, 2018). These problems include incomplete data preservation, skewed metadata standards, algorithmic bias, and assumptions about intended audiences. The Omohundro Institute is the oldest organization in the United States exclusively dedicated to advancing the study, research, and publication of scholarship bearing on the history and culture of early America, broadly construed, from circa 1450 to 1820. For example, in the story map of the 2017 Race, Memory, and the Digital Humanities conference, Jessica Marie Johnson and Marcia Chatelain pinpointed research sites in Dominica and Haiti as critical for their understanding of the binaries that shaped their own experiences of U.S. citizenship and the experiences of their research subjects. Similarly an ambitious multimedia work on long-term escaped slaves in late-eighteenth and early-nineteenth century Jamaica will appear in the venerable William and Mary Quarterly as it incorporates more imaginative forms of speculative digital humanities.
 
 **Virtual Reality as Narrative Medium: Potentialities and Problems for Caribbean Implementation**\
 Amanda Zilla (University of the West Indies, St. Augustine) 
