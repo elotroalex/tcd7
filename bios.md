@@ -159,27 +159,6 @@ Revolution and the Early U.S.: Histories, Geographies, and Textualities*
 
 &#x2666;
 
-<!-- &#x2666;
-
-## Schuyler Esprit
-
-...is a writer and editor, research consultant, and
-youth advocate. She is the Director of Create Caribbean Research
-Institute at Dominica State College, the first Digital Humanities center
-in the Caribbean. She is a scholar of Caribbean literature and cultural
-studies, and postcolonial theory and has also taught and held
-professional positions at a number of universities in the United States.
-She has also worked as the Editor of Dominica’s longest running
-newspaper, *The Chronicle*. She is now completing her book, entitled
-“West Indian Readers: A Social History” and its digital companion, both
-of which are historical explorations of reading culture in the
-Caribbean. She has also written the introduction to the 2016 Papillote
-Press edition of *The Orchid House*, the 1953 novel by Dominican writer
-Phyllis Shand Allfrey. She is currently Dean of Academic Affairs at
-Dominica State College. -->
-
-&#x2666;
-
 ## Jonathan Felix
 
 ...is a transdisciplinary educator and practitioner at the intersection of Design, Media, and Cultural Studies. His research interests include Alternative Media, Popular Culture and Digital Visual Discourses. With over 15 years of collective experience in the creative industries and higher education, he is currently a member of the faculty at the London College for Design and Fashion.
