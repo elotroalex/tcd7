@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Telling Histories of the Early Americas: Preservation, Big Data, and Digital"
+title: "Telling Histories of the Early Americas: Preservation, Big Data, and the Digital"
 session: 6
 day: Friday
 slot: "9:30-10:30AM"
