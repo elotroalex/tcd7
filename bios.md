@@ -137,24 +137,6 @@ Politics, the Journal of West Indian Literature, and *Small Axe*.
 
 &#x2666;
 
-## Watson R. Denis
-
-...is a graduate of the É cole Normale Supérieure at
-the Université d’ É tat d’Haïti (UEH) in Social Sciences. He has a
-masters in International Relations and a PhD in History. He currently
-teaches Caribbean history, Haitian social thought and the history of
-international relations at the UEH. He has published the following
-works: *L’Association des États de la Caraïbe: l’organisation de la
-Grande Caraïbe* (2013) and *Haïti: au-delà du 12 janvier 2015: droit,
-politique et constitution* (a collective volume) both with C3 Editions.
-He is the coordinator of the Bohio Collection: Studies in
-Haitian-Dominican Relations at C3 Editions. Dr. Denis is the executive
-director of Centre Challenges in Haiti, and he is also
-secrétaire-général of the Société Haïtienne d’Histoire, de Géographie et
-de Géologie.
-
-&#x2666;
-
 ## Elizabeth Maddock Dillon
 
 ...is Distinguished Professor and Chair of the
@@ -174,48 +156,6 @@ and the Literary Public Sphere* (Stanford University Press, 2004).
 Together with Michael Drexler, she is co-editor of *The Haitian
 Revolution and the Early U.S.: Histories, Geographies, and Textualities*
 (University of Pennsylvania Press, 2016).
-
-&#x2666;
-
-## Laurent Dubois
-
-...is Professor of Romance Studies and History and the
-founder and Faculty Director of the Forum for Scholars & Publics at Duke
-University. He is the author of *Avengers of the New World: The Story of
-the Haitian Revolution* (2004), *A Colony of Citizens: Revolution and
-Slave Emancipation in the French Caribbean, 1787-1804* (2004), which won
-four book prizes including the Frederick Douglass Prize, and *Haiti: The
-Aftershocks of History* (2012). He has written about music and cultural
-history, in *The Banjo: America's African Instrument*, published by
-Harvard University Press in 2016. The research on this book was
-supported by a Guggenheim Fellowship, a National Humanities Center
-Fellowship, and a Mellon New Directions Fellowship. He has also written
-about the politics of soccer, with *Soccer Empire: The World Cup and the
-Future of France* (2010), and is the founding editor of the Soccer
-Politics Blog. His most recent book is *The Language of the Game: How to
-Understand Soccer* (Basic Books, 2018). His writings have appeared in
-*The Nation*, *The New Yorker*, *Sports Illustrated*, *The New
-Republic*, *The New York Times*, *Aeon*, T*he Wall Street Journal*, *The
-Los Angeles Times*, and *Slate*. He tweets @Soccerpolitics.
-
-<!-- &#x2666;
-
-## Schuyler Esprit
-
-...is a writer and editor, research consultant, and
-youth advocate. She is the Director of Create Caribbean Research
-Institute at Dominica State College, the first Digital Humanities center
-in the Caribbean. She is a scholar of Caribbean literature and cultural
-studies, and postcolonial theory and has also taught and held
-professional positions at a number of universities in the United States.
-She has also worked as the Editor of Dominica’s longest running
-newspaper, *The Chronicle*. She is now completing her book, entitled
-“West Indian Readers: A Social History” and its digital companion, both
-of which are historical explorations of reading culture in the
-Caribbean. She has also written the introduction to the 2016 Papillote
-Press edition of *The Orchid House*, the 1953 novel by Dominican writer
-Phyllis Shand Allfrey. She is currently Dean of Academic Affairs at
-Dominica State College. -->
 
 &#x2666;
 
