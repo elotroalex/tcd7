@@ -13,7 +13,7 @@ participants: "Chelsea Stieber, Marlene L. Daut, Elizabeth Losh"
 
 - **Early Haitian Print Culture and Digital Preservation**\\
 [Marlene L. Daut]({{site.baseurl}}/bios/index.html#marlene-l-daut) (University of Virginia)
-- **Haitian Intellectual History in the Age of Digital Preservation**\\
+- **20th-century Caribbean Periodicals: Accessibility, Legibility, and Impact**\\
 [Chelsea Stieber]({{site.baseurl}}/bios/index.html#chelsea-stieber) (Catholic University)
 - **Virtual Reality as Narrative Medium: Potentialities and Problems for Caribbean Implementation**\
 [Elizabeth Losh]({{site.baseurl}}/bios/index.html#elizabeth-losh) (College of William & Mary)
