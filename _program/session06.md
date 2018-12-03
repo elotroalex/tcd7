@@ -4,7 +4,7 @@ title: "Telling Histories of the Early Americas: Preservation, Big Data, and the
 session: 6
 day: Friday
 slot: "9:30-10:30AM"
-participants: "Chelsea Stieber, Marlene L. Daut, Elizabeth Losh"
+participants: "Chelsea Stieber, Marlene L. Daut, Elizabeth Losh, Elizabeth Maddock Dillon"
 ---
 
 
@@ -15,7 +15,7 @@ participants: "Chelsea Stieber, Marlene L. Daut, Elizabeth Losh"
 [Marlene L. Daut]({{site.baseurl}}/bios/index.html#marlene-l-daut) (University of Virginia)
 - **20th-century Caribbean Periodicals: Accessibility, Legibility, and Impact**\\
 [Chelsea Stieber]({{site.baseurl}}/bios/index.html#chelsea-stieber) (Catholic University)
-- **Virtual Reality as Narrative Medium: Potentialities and Problems for Caribbean Implementation**\
+- **Virtual Reality as Narrative Medium: Potentialities and Problems for Caribbean Implementation**\\
 [Elizabeth Losh]({{site.baseurl}}/bios/index.html#elizabeth-losh) (College of William & Mary)
 - Moderator: [Elizabeth Maddock Dillon]({{site.baseurl}}/bios/index.html#elizabeth-maddock-dillon)  (Northeastern University)
 
