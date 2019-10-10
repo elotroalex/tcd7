@@ -3,7 +3,7 @@ layout: page
 title: "Workshop on Digital Decolonization"
 session: 5
 day: Thursday
-slot: "4:45-6:30PM"
+slot: "4:45-6:10PM"
 participants: "Elizabeth Maddock Dillon, Alanna Prince"
 ---
 

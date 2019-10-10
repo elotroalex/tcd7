@@ -3,7 +3,7 @@ layout: page
 title: "Digitizing Revolution in the Circum-Caribbean"
 session: 4
 day: Thursday
-slot: "3:15-4:45PM"
+slot: "3:15-4:30PM"
 participants: "Laurie Taylor, Leah Rosenberg, Bryan Wagner, Amalia S. Levi, Roopika Risam"
 ---
 

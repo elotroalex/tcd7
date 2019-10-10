@@ -38,3 +38,15 @@ An approximately 2500-line poem, James Grainger’s The Sugar-Cane (1764) detail
 Lizabel Mónica (Princeton University), Katerina Gonzalez Seligmann (Emerson College)
 
 We propose to trace the unfolding of literary magazines in the Caribbean from print to digital forms through the 20th and 21st centuries. Drawing on highly influential magazines from the twentieth century (such as Revista Orígenes, Poesía Sorprendida, Tropiques, Revue Indigène, BIM, Focus) Katerina Gonzalez Seligmann will examine the print literary magazine as a medium that played a foundational role in the establishment, development, and circulation of Caribbean literatures. Lizabel Mónica will examine the arrival of digital literary magazines like La Habana Elegante, Hermano Cerdo, 80 grados, Suburbanos.net, Hypermedia and SX Salon as new channels that altered the dynamics of Caribbean literary production to the point of redefining its literary audience and the literary product itself. We will build our presentation as a dialogue that aims to decipher to what extent there is a continuity between the print and the digital magazine in the shaping of literary fields. In this dialogue, we will address the following questions: How does the literary magazine, as a medium, shape a literary audience? How are print and digital literary magazines networked to other mediums in the service of the literary fields' development? Is the digital turn transforming literary publishing? Our conversation aims to establish how the media changes remodeled the role of the Caribbean literary magazine.
+
+**Archiving the Ephemeral**\\
+Agyei Archer (Independent Designer)
+
+Even in their most experimental forms, many typeface designs rely heavily on historical or existing references.
+                    
+In the Caribbean, we have a long history of sign painting, mostly for public notices of things like events or sales. Because most of the work done is by hand, there is variation in letter proportions (relative to conventional typographic proportions) and elements that work together to make these signs highly effective modes of communication.
+                    
+Despite the relative uniqueness of the letterforms, simple replicas of Caribbean sign painting would make for very boring typography. I would like to show type design work in progress, that will highlight some of the possibilities of using variable font technology to attempt to go beyond a simple typographic replica, but type that builds on current styles, exploring possibilities for both digital and print, using a combination including of Python, CSS animation and conventional digital type design.
+                    
+The final objective of the project is to develop a suite of typefaces (or, indeed, a single typeface) that can be used for display use in digital formats. Works in progress will be shown with live examples of implementations for animations and the web.
+

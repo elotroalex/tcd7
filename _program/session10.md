@@ -10,11 +10,11 @@ participants: "Halcyon M. Lawrence, Amanda Zilla, Roopika Risam, Kaiama L. Glove
 
 ---
 
-- **Siri mek mi speak like ah freshwater Yankee**\
+- **Siri mek mi speak like ah freshwater Yankee**\\
 [Halcyon M. Lawrence]({{site.baseurl}}/bios/index.html#halcyon-m-lawrence) (Towson University)
-- **Resisting Recolonization: Big Data, Vast Early America, and Black Digital Humanities**\
+- **Resisting Recolonization: Big Data, Vast Early America, and Black Digital Humanities**\\
 [Amanda Zilla]({{site.baseurl}}/bios/index.html#amanda-zilla) (University of the West Indies, St. Augustine) 
-- **Is the Digital in Digital Black Atlantic the Digital in Digital Humanities?**\
+- **Is the Digital in Digital Black Atlantic the Digital in Digital Humanities?**\\
 [Roopika Risam]({{site.baseurl}}/bios/index.html#roopika-risam) (Salem State University)
 - Moderator: [Kaiama L. Glover]({{site.baseurl}}/bios/index.html#kaiama-l-glover) (Barnard College, Columbia University)
 
