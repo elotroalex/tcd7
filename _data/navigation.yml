@@ -1,18 +1,20 @@
 - title: Home
-  url: /2018/
+  url: /2019/
 - title: Team
-  url: /2018/team/
+  url: /2019/team/
 - title: Program
-  url: /2018/program/
+  url: /2019/program/
 - title: Participants
-  url: /2018/bios/
+  url: /2019/bios/
 - title: Register
   url: https://www.eventbrite.com/e/caribbean-digital-v-tickets-50043786312
 - title: Travel
-  url: /2018/travel/
+  url: /2019/travel/
 - title: Archive
   url: /#
   sublinks:
+    - title: "#sxcd2018"
+      url: http://caribbeandigitalnyc.net/2018/
     - title: "#sxcd2017"
       url: http://caribbeandigitalnyc.net/2017/
     - title: "#sxcd2016"

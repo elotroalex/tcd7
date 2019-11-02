@@ -70,9 +70,9 @@ hr {
 /* SITE HEADER */
 /* Banner Image */
 header #fixed-banner {
-  background: url("") no-repeat top center fixed;
+  background: url("../images/banner.jpg") no-repeat top center fixed;
   background-size: cover;
-  height: 100px;
+  height: 500px;
   width: 100%; }
 
 /* Navigation */
