@@ -7,19 +7,17 @@
 - title: Participants
   url: /2019/bios/
 - title: Register
-  url: https://www.eventbrite.com/e/caribbean-digital-v-tickets-50043786312
-- title: Travel
-  url: /2019/travel/
-- title: Archive
-  url: /#
-  sublinks:
-    - title: "#sxcd2018"
-      url: http://caribbeandigitalnyc.net/2018/
-    - title: "#sxcd2017"
-      url: http://caribbeandigitalnyc.net/2017/
-    - title: "#sxcd2016"
-      url: http://caribbeandigitalnyc.net/2016/
-    - title: "#sxcd2015"
-      url: http://caribbeandigitalnyc.net/2015/
-    - title: "#sxcd2014"
-      url: https://wayback.archive-it.org/1914/20151224034027/http://caribbeandigital.cdrs.columbia.edu/
+  url: /2019/register/
+# - title: Archive
+#   url: /#
+#   sublinks:
+#     - title: "#sxcd2018"
+#       url: http://caribbeandigitalnyc.net/2018/
+#     - title: "#sxcd2017"
+#       url: http://caribbeandigitalnyc.net/2017/
+#     - title: "#sxcd2016"
+#       url: http://caribbeandigitalnyc.net/2016/
+#     - title: "#sxcd2015"
+#       url: http://caribbeandigitalnyc.net/2015/
+#     - title: "#sxcd2014"
+#       url: https://wayback.archive-it.org/1914/20151224034027/http://caribbeandigital.cdrs.columbia.edu/
