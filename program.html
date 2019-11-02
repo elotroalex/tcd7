@@ -6,30 +6,23 @@ title: Program
 <h1>The Program</h1>
 
 
-  <a href="https://www.youtube.com/channel/UCjZ0XkdeiUkTm5QBPK86Hdw">YouTube Video Archive &#x1F4F9;</a>
+<!--   <a href="https://www.youtube.com/channel/UCjZ0XkdeiUkTm5QBPK86Hdw">YouTube Video Archive &#x1F4F9;</a> -->
 
-  <br>
+  <!-- <br> -->
   <br>
 
-<h2>Thursday, 6 December</h2>
-<p>School of Education, 3rd Floor<br>
-University of the West Indies, St. Augustine
-Trinidad and Tobago</p>
+<h2>Friday, 6 December</h2>
+<p>Digital Humanities Center<br>
+Barnard College, New York City</p>
 
   <ul class="slots">
     <li class="slot">
-      <span class="slot-title">Welcome</span><br>
-      <span>9:00AM</span><br>
-    </li>
-
-    <li class="slot">
-      <span class="slot-title">Opening Remarks</span><br>
-      <span>Kelly Baker Josephs</span><br>
-      <span>9:15AM</span><br>
+      <span class="slot-title">Welcome and Opening Remarks</span><br>
+      <span>Kaiama L. Glover</span><br>
+      <span>1:30PM</span><br>
     </li>
 
   {% for item in site.program %}
-  	{% if item.day == "Thursday" %}
   
     <li class="slot">
       <span class="slot-title"><a href="{{ site.baseurl }}{{ item.url }}">
@@ -38,36 +31,12 @@ Trinidad and Tobago</p>
       <span>{{ item.participants }}</span><br>
       <span>{{ item.slot }}</span><br>
     </li>
-    {% endif %}
   {% endfor %}
   </ul>
 
 <br>
 
-<h2>Friday, 7 December</h2>
-<p>School of Education, 3rd Floor<br>
-University of the West Indies, St. Augustine
-Trinidad and Tobago</p>
 
-  <ul class="slots">
-  {% for item in site.program %}
-  	{% if item.day == "Friday" %}
-  
-    <li class="slot">
-      <span class="slot-title"><a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a></span><br>
-      <span>{{ item.participants }}</span><br>
-      <span>{{ item.slot }}</span><br>
-    </li>
-    {% endif %}
-  {% endfor %}
-<!--     <li class="slot">
-      <span class="slot-title">Conversations in the Yard</span><br>
-      <span>Di-Andre Caprice Davis (Jamaica), Maeksaens Denis (Haiti), Asha Ganpat (T&T/USA), David Gumbs (Saint-Martin), Rodell Warner (T&T)</span><br>
-      <span>Alice Yard, 80 Roberts Street, Woodbrook, Port of Spain</span><br>
-      <span>8:00PM</span><br>
-    </li> -->
 
   </ul>
 

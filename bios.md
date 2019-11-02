@@ -5,15 +5,10 @@ title: Participants
 
 # Participants
 
-## Agyei Archer
+## Frances Negrón-Muntaner
 
-...is a type and graphic designer from Trinidad, with 11
-years of experience across various communication design disciplines,
-including art direction, advertisement, experience design, website
-design and development, branding, and motion design. He is also a
-founding member and active member of the board of directors of Design
-Objective, Trinidad and Tobago’s professional graphic design
-organisation.
+... is a filmmaker, writer, scholar and professor at Columbia University, where she is also the founding curator of the Latino Arts and Activism Archive. Among her books and publications are: Boricua Pop: Puerto Ricans and the Latinization of American Culture (CHOICE Award, 2004), The Latino Media Gap (2014), and Sovereign Acts: Contesting Colonialism in Native Nations and Latinx America (2017). Her most recent films include Small City, Big Change (2013), War for Guam (2015) and Life Outside (2016). For her work, Negrón-Muntaner has received Ford, Truman, Rockefeller, and Pew fellowships. In 2008, the United Nations' Rapid Response Media Mechanism recognized her as a global expert in the areas of mass media and Latin/o American studies. She is also recipient of the Lenfest Award, one of Columbia University's most prestigious recognitions for excellence in teaching and scholarship (2012); an inaugural OZY Educator Award (2017), the Latin American Studies Association’s 2019 Frank Bonilla Public Intellectual Award, and the 2019 Media Trailblazer Award from the National Association of Latino Independent Producers. In 2019, she launched Valor y Cambio, an art, digital storytelling and just economy project in Puerto Rico  and New York ([valorymcambio.org](http://valorymcambio.org)) for which she was awarded the 2019 Premio Borimix from the Society for Educational Arts in New York.
+
 
 &#x2666;
 
