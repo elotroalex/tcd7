@@ -72,6 +72,11 @@ a {
 p {
     margin-bottom: $spacing-unit;
     font-size: $base-font-size;
+
+    @include media-query($on-palm) {
+        font-size: 1.2rem;
+        font-weight: normal;
+    }
 }
 
 p, ul {
@@ -125,6 +130,11 @@ nav ul {
 	display: block;
 	text-align: center;
     padding: 1rem;
+
+    @include media-query($on-palm) {
+        padding: .5rem;
+        font-size: small;
+    }
 }
 
 #navigation-bar li a:hover {
@@ -278,16 +288,21 @@ div.fixed-footer {
     width: 100%;
     background-color: black;
     display: flex;
+    flex-flow: wrap;
     justify-content: center;
     padding: 20px 0;
     margin: 0;
-    height: 100px;
+
 }
 
 div.fixed-footer img {
     display: flex;
     justify-content: center;
     object-fit: contain;
+
+    @include media-query($on-palm) {
+        height: 20%;
+    }
 }
 
 

@@ -59,6 +59,10 @@ a {
 p {
   margin-bottom: 1rem;
   font-size: 18px; }
+  @media screen and (max-width: 600px) {
+    p {
+      font-size: 1.2rem;
+      font-weight: normal; } }
 
 @media screen and (max-width: 600px) {
   p, ul {
@@ -100,6 +104,10 @@ nav ul {
   display: block;
   text-align: center;
   padding: 1rem; }
+  @media screen and (max-width: 600px) {
+    #navigation-bar li a, .dropdown-button {
+      padding: .5rem;
+      font-size: small; } }
 
 #navigation-bar li a:hover {
   background-color: #F50000; }
@@ -217,12 +225,15 @@ div.fixed-footer {
   width: 100%;
   background-color: black;
   display: flex;
+  flex-flow: wrap;
   justify-content: center;
   padding: 20px 0;
-  margin: 0;
-  height: 100px; }
+  margin: 0; }
 
 div.fixed-footer img {
   display: flex;
   justify-content: center;
   object-fit: contain; }
+  @media screen and (max-width: 600px) {
+    div.fixed-footer img {
+      height: 20%; } }
