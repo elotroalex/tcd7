@@ -159,7 +159,8 @@ nav ul {
 .picture {
   float: left;
   margin-bottom: 1rem;
-  margin-right: 10%; }
+  margin-right: 2rem;
+  margin-top: .5rem; }
 
 .bio {
   float: right; }
