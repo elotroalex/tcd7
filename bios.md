@@ -23,6 +23,13 @@ title: Participants
 
 &#x2666;
 
+## Marlene L. Daut
+
+... is Professor of American Studies & Carter Woodson Institute Associate Director at the University of Virginia. She specializes in pre-20th-century Caribbean, African American, and French colonial literary and historical studies. Her first book, *Tropics of Haiti: Race and the Literary History of the Haitian Revolution in the Atlantic World, 1789-1865*, was published in 2015 by Liverpool University Press’ Series in the Study of International Slavery. Her second book, *Baron de Vastey and the Origins of Black Atlantic Humanism*, was published in fall 2017 from Palgrave Macmillan’s series in the New Urban Atlantic. She is  also working on a collaborative project entitled, *An Anthology of Haitian Revolutionary Fictions (Age of Slavery)*, which is under contract with the University of Virginia Press. Daut is the co-creator and co-editor of H-Net Commons’ digital platform, H-Haiti. She also curates 
+[La Gazette Royale d'Hayti](http://lagazetteroyale.com), on early Haitian print culture at, and has developed an [online bibliography](http://haitianrevolutionaryfictions.com) of fictions of the Haitian Revolution from 1787 to 1900. 
+
+&#x2666;
+
 ## Laurent Dubois 
 
 ... is a specialist on the history and culture of the Atlantic world, with a focus on the Caribbean and particularly Haiti. He is the faculty director of the Forum for Scholars and Publics at Duke University, and writes for magazines including the New Republic, Sports Illustrated, and the New Yorker. He recently completed a book entitled The Banjo: America's African instrument. He has received a Mellon New Directions Fellowship, a National Humanities Fellowship, and a Guggenheim Fellowship to support this work. His 2012 book, Haiti: The Aftershocks of History, tells the history of the country from its founding revolution to the present day. In 2010 he published Soccer Empire: The World Cup and the Future of France, and continued to write about soccer in The Language of the Game (2018). In 2004 he published Avengers of the New World: The Story of the Haitian Revolution (Harvard) as well as A Colony of Citizens: Revolution and Slave Emancipation in the French Caribbean, 1787-1804 (Published by UNC Press for the Omohundro Institute), which won four book prizes including the Frederick Douglass Prize. He has also co-edited a collection of documents on the Haitian Revolution with John Garrigus; a reader entitled Origins of the Black Atlantic with Julius Scott; and, with Thomas Bender and Richard Rabinowitz, the catalogue for the exhibit Revolution!: The Atlantic World Reborn, for which he was co-chair of the scholar's committee. He is also co-editing the "Haiti Reader" for Duke University Press. In collaboration with Mary Caton Lingold and David Garner, he is the creator of digital humanities project Musical Passage.
@@ -59,6 +66,6 @@ title: Participants
 
 &#x2666;
 
-## Radcliffe Roye
+## Ruddy Roye
 
 ... is a Brooklyn based documentary photographer specializing in editorial and environmental portraits and photo-journalism photography. A photographer with over twelve years of experience, Radcliffe is inspired by the raw and gritty lives of grass-roots people, especially those of his homeland of Jamaica. Radcliffe strives to tell the stories of their victories and ills by bringing their voices to matte fibre paper. Recently, Radcliffe began experimenting with interpretative photography, preferring to allow the abstract content within the frame to dictate the voice and purpose of the image. His Elements series focuses on the bold, austere, graphic and emotionally raw imagery, that is trapped behind a diffused lens. With painterly abilities, Radcliffe uses this diffused methodology to subtly awake the subconscious and expose the isolated figure or vision painted within a rhetorical frame.
