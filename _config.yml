@@ -10,7 +10,7 @@ title: "#TCDVI"
 author: "Alex Gil"
 email: colibri.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  An annual conference dedicated to Caribbean digital studies.
+  Sixth annual conference dedicated to Caribbean digital studies.
 baseurl: "/2019" # the subpath of your site, e.g. /blog
 url: "http://caribbeandigitalnyc.net" # the base hostname & protocol for your site
 twitter_username: elotroalex
