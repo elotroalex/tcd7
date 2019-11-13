@@ -75,9 +75,12 @@ hr {
 /* Banner Image */
 header #fixed-banner {
   background: url("../images/banner.png") no-repeat top center fixed;
-  background-size: cover;
   height: 500px;
-  width: 100%; }
+  width: 100; }
+  @media screen and (min-width: 1200px) {
+    header #fixed-banner {
+      background: url("../images/banner-big.png") no-repeat fixed;
+      background-size: cover; } }
 
 /* Navigation */
 nav {
