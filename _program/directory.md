@@ -12,4 +12,4 @@ permalink: /directory/
 
 <br>
 
-In this exercise we will compile a collective list of Caribbean Digital Scholarship resources as a community by leveraging social media and a co-produced spreadsheet. After we have collected the data, a few of us will produce a polished directory online that will allow us to browse, preview and search the bibliography of projects and resources we compile. This exercise will hopefully be the beginning of a tradition we can repeat every other few years that would enrich our collective directory.
+This collaborative curation of digital resources concerning the Caribbean and its diasporas engages the community in compiling entries in an open, shared online dataset. Over the course of two months, contributors will co-produce an online directory that allows users to browse, preview, and search a comprehensive, open-source bibliographical archive. We hope this will be the beginning of a tradition we can repeat in subsequent years to enrich this dynamic community resource.

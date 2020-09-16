@@ -1,13 +1,22 @@
 - title: Home
   url: /2020/
-- title: Team
-  url: /2020/team/
+- title: People
+  url: /2020/people/
+# - title: Live Feed
+#   url: /2020/live-feed/
 - title: Program
-  url: /2020/program/
-- title: Participants
-  url: /2020/bios/
-- title: Live Feed
-  url: /2020/live-feed/
+  url: /#
+  sublinks:
+    - title: "The Directory"
+      url: #
+    - title: "Cahier Notes"
+      url: #
+    - title: "Keywords"
+      url: #
+
+# - title: Participants
+#   url: /2020/bios/
+
 # - title: Archive
 #   url: /#
 #   sublinks:
