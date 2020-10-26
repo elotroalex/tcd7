@@ -5,14 +5,14 @@
 # - title: Live Feed
 #   url: /2020/live-feed/
 - title: Program
-  url: /#
+  url: \#
   sublinks:
     - title: "The Directory"
-      url: #
+      url: /2020/directory/
     - title: "Cahier Notes"
-      url: #
+      url: /2020/cahier/
     - title: "Keywords"
-      url: #
+      url: /2020/keywords/
 
 # - title: Participants
 #   url: /2020/bios/
