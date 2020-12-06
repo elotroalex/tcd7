@@ -16,5 +16,5 @@ This online annotation event, which took place asynchronously from Monday, Novem
 While the official event has closed, the site remains public and open for further engagement. Should you decide to join the conversation with our community, please consider <a href="https://docs.google.com/forms/d/1Z1tO3pNofYQuQGG_rDb2Q962pxBjRA004XRB60pgU-c/edit">signing up here</a>, so we have a record of your participation. And if you are new to hypothes.is, you can learn more about it and create an account [on their website](https://web.hypothes.is/).
 
 <br>
-<p class="aligncenter"><button><a href="https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/" target="_blank">Annotate the Poem</a></button></p>
+<p class="aligncenter"><button><a href="https://via.hypothes.is/https://cahier1939ms.github.io/texts/translation/" target="_blank">Visit the Poem</a></button></p>
 <br>

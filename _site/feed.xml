@@ -4,10 +4,10 @@
     <title>#TCDVII</title>
     <description>Seventh annual conference dedicated to Caribbean digital studies.
 </description>
-    <link>http://caribbeandigitalnyc.net/2020/</link>
-    <atom:link href="http://caribbeandigitalnyc.net/2020/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Nov 2020 15:39:10 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2020 15:39:10 -0500</lastBuildDate>
+    <link>http://localhost:4000/2020/</link>
+    <atom:link href="http://localhost:4000/2020/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Dec 2020 12:44:42 -0500</pubDate>
+    <lastBuildDate>Sun, 06 Dec 2020 12:44:42 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
   </channel>
